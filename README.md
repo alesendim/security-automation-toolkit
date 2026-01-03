@@ -21,3 +21,9 @@ para vagas de nível inicial e estágio.
 ## Aviso
 Todas as ferramentas são destinadas exclusivamente a fins educacionais
 e de segurança defensiva.
+
+## Como usar
+
+1. Baixe o projeto:
+```bash
+git clone https://github.com/alesendim/security-automation-toolkit.git
